@@ -54,14 +54,14 @@ D = {
     '拉萨': '221.13.70.244',
     '长春': '202.98.0.68',
     '深圳': '119.147.52.35',
-    '兰州': 'www.lanzhouunicom.com',
+    '兰州': 'lanzhouunicom.com',
     '西宁': '221.207.32.94',
     '合肥': '112.122.10.26',
     '武汉': '113.57.249.2',
     '襄阳': '202.103.44.150',
-    '南昌': 'speedtest2.wy.jxunicom.com',
-    '重庆': 'speedtest1.cqccn.com',
-    '上海': 'speedtest2.sh.chinamobile.com',
+    '南昌': 'www.ncu.edu.cn',
+    '重庆': '183.64.83.51',
+    '上海': 'www.fudan.edu.cn',
     '呼和浩特': '222.74.1.200	',
     '乌鲁木齐': '61.128.114.133',
     '杭州': '122.229.136.10',
@@ -71,14 +71,13 @@ D = {
     '苏州': '218.94.214.42',
     '长沙': '61.234.254.5',
     '哈尔滨': '202.97.224.1',
-    '北京': 'st1.bjtelecom.net',
-    '成都': 'speed.westidc.com.cn',
+    '北京': '166.111.134.50',
+    '成都': '202.112.14.178',
     '沈阳': 'speedtest1.online.ln.cn',
     '南京': '4gnanjing1.speedtest.jsinfo.net',
     '宁夏': '221.199.9.35',
     '福州': 'upload1.testspeed.kaopuyun.com'
     }
-
 
 
 string =list()
